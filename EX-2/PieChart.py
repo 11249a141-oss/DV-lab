@@ -3,7 +3,7 @@
 python
 import matplotlib.pyplot as plt
 
-technologies = ["Python", "Java", "R", "Tableau"]
+technologies = ["PYTHON", "JAVA", "R", "TABLEAU"]
 usage_values = [35, 25, 20, 20]
 
 plt.pie(
